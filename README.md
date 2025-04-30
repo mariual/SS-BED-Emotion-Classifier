@@ -13,7 +13,9 @@ The project implements two models:
 Both models are trained to classify emotions into four categories: **happy**, **sad**, **angry**, and **others**.
 
 ## Requirements
+You **need to download the word embeddings** used in this project: download them from **[this Google Drive folder](https://drive.google.com/drive/folders/1WBHHm_1XnDumkfeK8M-zqTSj-FrHrMEa?usp=drive_link)**.
 
+  **Important**: After downloading, **place the `word_embeddings/` folder in the root directory** of your repository.
 Before running the project, ensure you have the following installed:
 
 - Python 3.x
